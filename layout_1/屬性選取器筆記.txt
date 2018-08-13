@@ -1,0 +1,7 @@
+屬性選取器
+
+[class="ooo"]
+[class^="xxx"]=>代表class的開頭中有xxx的字皆被套用樣式
+[class$="aaa"]=>代表class的結尾中有aaa的字皆被套用樣式
+[class*="bbb"]=>代表class中任意含有bbb的字皆被套用樣式
+

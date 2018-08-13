@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    font-family: "Gaegu","微軟正黑體";
+    }
+    :root{
+        --primaryCorlor: rgb(247, 202, 5);
+        --dark:#333;
+        --light:#eee;
+        --p:rgb(207, 49, 49);
+    }
+    .clearfix::after{
+    content: "";
+    display: block;
+    clear:both;
+    }
+    html,body,h1,h2,h3,h4,h5,h6,p,ol,li,ul,a,img{
+    margin: 0;
+    padding:0;
+    border:0;
+    }
+    ol,ul,li{
+    list-style:none;
+    }
+    img{
+        width: 100%;
+    }
+
+    .nopa{
+        padding:0!important;
+    }
+    .full-width{
+        width: 100%;
+    }
