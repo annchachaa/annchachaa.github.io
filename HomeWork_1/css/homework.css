@@ -1,0 +1,33 @@
+
+.btn-navbar-icon{
+    color:rgb(142,141,139);
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: right;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.news-date{
+    color:rgb(205, 192, 177)
+}
+
+.bg-color{
+    background-color:rgb(237,235,232);
+}
+.bg-color2{
+    background-color: rgb(242,242,242);
+}
+
+.bg-color3{
+    background-color: rgb(208,188,172);
+    height: 400px;
+}
+
+.text-color-brown{
+    color:rgb(103,85,66);
+    padding-top:50px;
+}
